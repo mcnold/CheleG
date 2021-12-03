@@ -1,7 +1,13 @@
 .App {
   text-align: center;
+ 
 }
-
+.inner-container {
+  background-image: url("IamCheleGcopy.png");
+  background-repeat: no-repeat;
+  background-size: cover;
+  text-align: center;
+}
 .App-logo {
   height: 40vmin;
   pointer-events: none;
